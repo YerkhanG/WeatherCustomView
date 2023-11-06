@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherView</string>
+    <integer name="temp">19</integer>
+</resources>
